@@ -1,7 +1,6 @@
 ## welcome my dear classmates
-
-
-am so amazed
+# Title of the post
+##am so amazed
 
 
 
