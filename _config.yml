@@ -1,23 +1,2 @@
-theme: jekyll-theme-hacker
-git add index.html
-git commit -m 'Initial commit'
-git push
-
-git add .
-git commit -m 'Initial Jekyll setup'
-git push
- 
----
-author: Aleksandar Todorović
-layout: post
-categories: en
-tags:
-- tag 1
-- tag 2
-- tag 3
----
-
-# Markdown code goes here
-# Title of the post
-THE FORUM FOR THE THIRD YEARS DISCUSSION
-twitter: r3bl
+name: Hank Quinlan, Horrible Cop
+	markdown: kramdown
