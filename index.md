@@ -1,4 +1,6 @@
 ## welcome my dear classmates
+# Title of the post
+This is the third years platform
 
 You can use the [editor on GitHub](https://github.com/hillarymagezi/hillarymagezi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
