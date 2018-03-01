@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 git add .
 git commit -m 'Initial Jekyll setup'
 git push
+# Title of the post
+hillary magezi 
